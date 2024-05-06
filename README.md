@@ -14,6 +14,8 @@
 
 ## Introduction
 
+![Waste2Trade](https://github.com/anjasopo/waste2trade/blob/main/Waste2Trade.png?raw=true)
+
 Waste2Trade is a platform for youth and coffee shop owners who want to contribute to reducing waste in Indonesia. One of the ways of campaigning less waste is recycling. Waste2Trade initiates a reward-based recycling system or waste trading management. The website offers easy access to trading the collected trash with other products in the coffee shops, e.g., coffee vouchers, tote bags, and tumblers.
 
 ## Technologies
